@@ -1,2 +1,7 @@
 # gulp-axe-webdriver
-Gulp plugin for aXe utilizing WebDriverJS
+
+A Gulp plugin for aXe utilizing WebDriverJS
+
+Inspired by [grunt-axe-webdriver](https://github.com/dequelabs/grunt-axe-webdriver).
+
+## Work in progress
